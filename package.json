@@ -1,0 +1,10 @@
+{
+  "name": "marksheet",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fastify": "^4.11.0",
+    "mongoose": "^6.8.3"
+  }
+}
